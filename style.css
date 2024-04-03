@@ -1,0 +1,2093 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+.container{
+    width: 100%;
+}
+
+.trafalgartop{
+    width: 80%;
+    margin: auto;
+}
+
+
+.trafalgarlogodesign{
+    display: flex;
+    align-items: center;
+    margin-left: -4rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    padding: 2rem 0;
+  }
+
+nav{
+    display: flex;
+    list-style: none;
+    gap: 2.5rem;
+}
+
+.trafalgarlogo img{
+    width: 90%;
+}
+
+.trafalgartext h4{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.12px;
+text-align: left;
+color: #233348;
+;
+
+}
+
+.startop{
+    margin-left: -9rem;
+    width: 5%;
+}
+
+
+
+li{
+font-family: Mulish;
+font-size: 18px;
+font-weight: 400;
+line-height: 22.59px;
+text-align: left;
+color: #1F1534;
+}
+
+.secondpart{
+    display: flex;
+    width: 100%;
+}
+
+.virtualimage img{
+    width: 92%;
+    margin-left: -1rem;
+    margin-right: 6rem;
+}
+
+.virtualword h3{
+font-family: Mulish;
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+text-align: left;
+color: #000000;
+width: 85%;
+margin-bottom: 1.5rem;
+
+}
+
+.virtualword p{
+font-family: Mulish;
+font-size: 19px;
+font-weight: 300;
+line-height: 32px;
+text-align: left;
+color: #7D7987;
+width: 70%;
+
+
+
+}
+
+.btn button{
+color: #ffff;
+font-family: Mulish;
+font-size: 18px;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+border-radius: 50px;
+background: #458FF6;
+padding: 0.5rem 1rem;
+border: none;
+cursor: pointer;
+
+
+}
+
+.servicespart{
+    width: 90%;
+    margin: auto;
+    margin-top: 5rem;
+    
+
+}
+
+.servicestext h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+text-align: center;
+color: #000000;
+
+}
+
+hr{
+    width: 5%;
+    padding-top:0.2rem;
+    background-color: #000000;
+    border-radius: 100px;
+    border: none;
+    margin-top: -1rem;
+
+}
+
+.servicestext p{
+font-family: Mulish;
+font-size: 20.5px;
+font-weight: 290;
+line-height: 30px;
+text-align: center;
+width: 90%;
+margin: auto;
+color: #7D7987;
+margin-bottom: 5rem;
+
+
+}
+
+.allservices{
+    margin-top: rem;
+    width: 80%;
+    margin: auto;
+    
+}
+
+.servicesboxes1{
+    display: flex;
+    gap: 1rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.servicesbox2{
+    display: flex;
+    gap: 1rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.doc h4{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 56px;
+text-align: left;
+color: #000000;
+margin-top: 1rem;
+margin-bottom: 1rem;
+
+
+}
+
+.doc p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    text-align:left; 
+    line-height: 28px;
+    color: #7D7987;
+    
+
+    
+}
+
+.Pharmacy h4{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 56px;
+text-align: left;
+color: #000000;
+margin-top: 1rem;
+margin-bottom: 1rem;
+
+}
+
+.Pharmacy p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+    
+}
+
+.report h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.report p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+   
+}
+
+.filled h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.filled p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+}
+
+.firstaid h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    /* margin-top: 2.2rem;
+    margin-bottom: 1rem; */
+}
+
+.firstaid p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+    
+    
+}
+
+.reporter h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.reporter p{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+    
+} 
+.doc{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    width: 30%;
+}
+
+.Pharmacy{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    width: 30%;
+}
+
+.reporter{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    width: 30%;
+}
+
+.report{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    width: 30%;
+}
+
+.firstaid{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    width: 30%;
+}
+
+.filled{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #E5E9F666;
+    padding: 0.5rem 1rem;
+    width: 30%;
+    
+
+}
+
+
+.star{
+    margin-right: 7.5rem;
+    margin-top: -26rem;
+    position: absolute;
+    
+    right: 0;
+}
+
+.learnbtn{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+/* .bubblepicture{
+    margin-left: -3.5rem;
+    margin-top: -62rem;
+    position: absolute;
+    left: 0;
+    z-index: index 22; ;
+    
+
+    
+    
+} */
+
+.bubblepicture img{
+    width: 90%;
+}
+.learnbtn button{
+color:#458FF6;
+font-family: Mulish;
+font-size: 14px;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+border-radius: 50px;
+padding: 0.5rem 2rem;
+border-color: #458FF6;
+background: none;
+cursor: pointer;
+margin-top: 2rem;
+
+
+}
+
+.leading{
+    width: 90%;
+    margin: auto;
+    margin-top: 12rem;
+    gap: rem;
+}
+
+.leadingimage{
+    width:100%
+}
+
+.leadingimage img{
+    width: 100%;
+    
+}
+
+
+
+
+.leadingflex{
+    display: flex;
+    gap: 12rem;
+    /* width: 100%;
+    margin: auto; */
+}
+
+.providers{
+    width: 100%;
+    margin-right: -3rem;
+}
+
+.providers h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+text-align: left;
+color: #000000;
+width: 70%;
+
+
+}
+
+.providers hr{
+    width: 56px;
+    padding-top:0.2rem;
+    background-color: #000000;
+    margin-top: -1rem;
+    margin-right: 32rem;
+
+}
+
+.providers p{
+font-family: Mulish;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+text-align: left;
+color: #7D7987;
+width: 70%;
+
+
+}
+.providerbtn button{
+color:#458FF6;
+font-family: Mulish;
+font-size: 14px;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+border-radius: 50px;
+padding: 0.5rem 2rem;
+border-color: #458FF6;
+background: none;
+cursor: pointer;
+margin-top: 0.5rem;
+}
+
+
+.starone{
+   
+    position: absolute;
+    
+    right: 0;
+}
+
+
+
+
+.leading2{
+    width: 80%;
+    margin: auto;
+    margin-top: 12rem;
+    /* gap: 1rem; */
+}
+
+.providers{
+width: 100%;
+}
+
+.providers img{
+    width: 100%;
+}
+
+
+.apps{
+    margin: auto;
+    display: flex;
+    margin-top: 8rem;
+    gap: -5rem;
+    
+    
+}
+
+.appdownload h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+color: #000000;
+width: 60%;
+
+
+}
+.appdownload{
+    width: 50%;
+
+}
+.appdownload hr{
+    width: 56px;
+    padding-top:0.2rem;
+    background-color: #000000;
+    margin-top: -1rem;
+    margin-right: 50rem;
+}
+
+.appdownload p{
+font-family: Mulish;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+text-align: left;
+color: #7D7987;
+width: 70%;
+
+}
+
+.downloadbtn button{
+    color:#458FF6;
+    font-family: Mulish;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: left;
+    border-radius: 50px;
+    padding: 0.5rem 2rem;
+    border-color: #458FF6;
+    background: none;
+    cursor: pointer;
+    margin-top: 0.5rem; 
+    margin-bottom: 8rem; 
+}
+
+
+
+
+
+
+.imagesection{
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    width:90% ;
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+.imagetext1{
+   padding-top: 2rem;
+}
+
+.imagetext1 h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 2rem;
+
+}
+
+.imagetext1 hr{
+    width: 5%;
+    padding-top:0.2rem;
+    background-color: white;
+    border-radius: 100px;
+    border: none;
+    margin-top: -1rem;
+
+}
+
+.flex1{
+    display: flex;
+    justify-content: center;
+    gap: 9rem;
+    margin-top: 6.6rem;
+    margin-bottom: 3rem;
+
+    
+    
+}
+
+.imageflex{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    
+}
+
+.flexword h3{
+    font-family: Mulish;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: #FFFFFFE5;
+    margin-top: 1rem;
+    margin-bottom: -2rem;
+
+
+
+}
+
+.flexword p{
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    
+color: #FFFFFFD9;
+
+
+}
+
+
+
+.wordingside p{
+font-family: Mulish;
+font-size: 19px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color: #FFFFFFE5;
+width: 78%;
+margin-left: 3rem;
+
+
+
+}
+
+
+.mansection{
+    align-items: center;
+}
+
+.flexword{
+    width: 70%;
+    margin-left: -8rem;
+    margin-top: 1rem;
+    
+}
+
+
+.blueo{
+margin-right: 1.6rem;
+right: 0;
+margin-top: -33rem;
+position: absolute;
+
+
+    
+}
+
+.bluep {
+    left : 0;
+    position : absolute;
+    margin-top : -13rem;
+    margin-left : 2rem;
+    z-index: -1;
+}
+
+.arrowclass{
+    margin-top: 2rem;
+  text-align: center;
+}
+
+.scientist{
+    width: 90%;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.latest h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+text-align: center;
+color: #000000;
+
+
+
+}
+
+.latest hr{
+    margin-bottom: 4rem;
+}
+
+.lablevel{
+    display:flex;
+    width: 90%;
+    margin: auto;
+    gap: 2rem;
+}
+
+
+
+.labtest h4{
+    font-family: Mulish;
+font-size: 21px;
+font-weight: 700;
+line-height: 32px;
+text-align: left;
+color: #000000;
+width: 74%;
+margin-left: 1.5rem;
+
+
+
+}
+
+.labtest p{
+    font-family: Mulish;
+font-size: 16px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #7D7987;
+width: 78%;
+margin-left: 1.5rem;
+
+
+}
+
+
+.labtest h5{
+    font-family: Mulish;
+font-size: 17px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+color: #4089ED;
+margin-left: 1.5rem;
+
+
+
+
+}
+
+.labtest{
+    width: 350px;
+    height: 512px;
+    top: 4596px;
+    left: 1010px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    box-shadow: 0px 10px 10px 0px #E5E9F666;
+    
+
+}
+
+.arrows{
+    display: flex;
+    gap:30rem;
+width: 80%;
+margin: auto;}
+
+.arrow1{
+ margin-top: -1.8rem;
+ margin-left: 4rem;
+}
+.arrow2{
+    margin-top: -1.8rem;
+    margin-left: -7rem;
+
+}
+.arrow3{
+    margin-top: -1.8rem;
+    margin-left: -7rem;
+}
+
+.morereading button{
+    color:#458FF6;
+    font-family: Mulish;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: left;
+    border-radius: 50px;
+    padding: 0.5rem 3rem;
+    border-color: #458FF6;
+    background: none;
+    cursor: pointer;
+    margin-top: 4rem; 
+    margin-bottom: 5rem;
+    
+   
+}
+
+.morereading{
+    text-align: center;
+}
+
+.laststar{
+    margin-top: -46rem;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+    margin-left: 5rem;
+}
+
+.lastoval{
+    margin-top: -50rem;
+    right: 0;
+    position: absolute;
+    z-index: -90;
+    margin-right: -11rem;
+    
+    
+}
+
+ 
+
+.footercontainer{
+    width: 100%;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    
+
+}
+
+footer{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    gap: 12rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 8rem;
+  
+}
+
+.footerlogo{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.tsign img{
+    width: 100%;
+    height: 100%;
+}
+
+.logowords h4{
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.12px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.footerrightside h3{
+    font-family: Mulish;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.lastlast h3{
+    font-family: Mulish;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+margin-top: 2rem;
+}
+
+.flexside{
+    display: flex;
+    gap: 6rem;
+    margin-top: -0.5rem;
+    
+}
+
+.company h4{
+    font-family: Mulish;
+font-size: 20px;
+font-weight: 700;
+line-height: 60px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.company li{
+    list-style: none;
+    font-family: Mulish;
+font-size: 18px;
+font-weight: 300;
+line-height: 38px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.footerrightside{
+    width: 33.5%;
+}
+
+.footerstar{
+    right: 0;
+    position: absolute;
+    margin-top: -27.3rem;
+    margin-right: 2rem;
+    z-index: -1;
+}
+
+.footerstar2{
+    
+    position: absolute;
+    margin-top: -4.8rem;
+   
+}
+
+.footerstar2 img{
+    width: 80%;
+}
+
+
+
+
+@media screen and (max-width: 1024px){
+nav{
+    gap: 1.5rem;
+}
+.virtualword h3{
+    font-family: Mulish;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    
+    }
+
+    .virtualword p{
+        font-family: Mulish;
+        font-size: 19px;
+        font-weight: 300;
+        line-height: 32px;
+        text-align: left;
+        color: #7D7987;
+        width: 93%;
+        
+        
+        
+        }
+
+        .virtualimage img{
+            width: 100%;
+            margin-left: -0.5rem;
+            margin-right: 6rem;
+        }
+
+        .leadingimage{
+            width:50%
+        }
+        
+        .leadingimage img{
+            width: 160%;
+            
+        }
+
+        .providers{
+            margin-right: -10rem;
+        }
+
+        .appdownload h3{
+            width: 80%;
+        }
+        .appdownload p{
+            width: 90%;
+        }
+
+        .providers img{
+            width: 90%;
+        }
+
+        
+.imagesection{
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    width:90% ;
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+.imagetext1{
+   padding-top: 2rem;
+}
+
+.imagetext1 h3{
+font-family: Mulish;
+font-size: 28px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 2rem;
+
+}
+
+.imagetext1 hr{
+    width: 5%;
+    padding-top:0.2rem;
+    background-color: white;
+    border-radius: 100px;
+    border: none;
+    margin-top: -1rem;
+
+}
+
+.flex1{
+    display: flex;
+    justify-content: center;
+    gap: 9rem;
+    margin-top: 6.6rem;
+    margin-bottom: 3rem;
+
+    
+    
+}
+
+.imageflex{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    
+}
+
+.flexword h3{
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: #FFFFFFE5;
+    margin-top: 1rem;
+    margin-bottom: -2rem;
+
+
+
+}
+
+.flexword p{
+    font-family: Mulish;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    
+color: #FFFFFFD9;
+
+
+}
+
+
+
+.wordingside p{
+font-family: Mulish;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color: #FFFFFFE5;
+width: 90%;
+margin-right: 13rem;
+
+
+
+}
+
+
+.mansection{
+    align-items: center;
+}
+
+.flexword{
+    width: 70%;
+    margin-left: -8rem;
+    margin-top: 1rem;
+    
+}
+
+.blueo{
+    margin-right: -0rem;
+    right: 0;
+    margin-top: -30.5rem;
+    position: absolute;
+    
+    
+        
+    }
+    
+    .bluep {
+        left : 0;
+        position : absolute;
+        margin-top : -13rem;
+        margin-left : -0rem;
+        z-index: -1;
+    }
+
+    .lablevel{
+        display:flex;
+        width: 90%;
+        margin: auto;
+        gap: 1.5rem;
+        margin-left: 3rem;
+    }
+    
+    
+    
+    .labtest h4{
+        font-family: Mulish;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #000000;
+    width: 74%;
+    margin-left: 1.5rem;
+    
+    
+    
+    }
+    
+    .labtest p{
+        font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #7D7987;
+    width: 78%;
+    margin-left: 1.5rem;
+    
+    
+    }
+    
+    
+    .labtest h5{
+        font-family: Mulish;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #4089ED;
+    margin-left: 1.5rem;
+    
+    
+    
+    
+    }
+    
+    .labtest{
+        
+        width: 50%;
+        height: 512px;
+        top: 4596px;
+        left: 1010px;
+        gap: 0px;
+        border-radius: 20px 20px 20px 20px;
+        opacity: 0px;
+        box-shadow: 0px 10px 10px 0px #E5E9F666;
+        
+    
+    }
+    
+    .arrows{
+        display: flex;
+        gap:30rem;
+    width: 80%;
+    margin: auto;}
+    
+    .arrow1{
+     margin-top: -1.8rem;
+     margin-left: 4rem;
+    }
+    .arrow2{
+        margin-top: -1.8rem;
+        margin-left: -7rem;
+    
+    }
+    .arrow3{
+        margin-top: -1.8rem;
+        margin-left: -7rem;
+    }
+
+    .morereading button{
+        color:#458FF6;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: normal;
+        text-align: left;
+        border-radius: 50px;
+        padding: 0.5rem 3rem;
+        border-color: #458FF6;
+        background: none;
+        cursor: pointer;
+        margin-top: 4rem; 
+        margin-bottom: 5rem;
+        
+        
+       
+    }
+    .footercontainer{
+        width: 100%;
+        background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+        
+    
+    }
+    
+    footer{
+        width: 85%;
+        margin: auto;
+        display: flex;
+        gap: 12rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        margin-top: 8rem;
+      
+    }
+    
+    .footerlogo{
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    
+    .tsign img{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .logowords h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30.12px;
+    text-align: left;
+    color: #FFFFFF;
+    
+    
+    
+    }
+    
+    .footerrightside h3{
+        font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    width: 180%;
+    
+    
+    
+    }
+    
+    .lastlast h3{
+        font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 2rem;
+    }
+    
+    .flexside{
+        display: flex;
+        gap: 6rem;
+        margin-top: -0.5rem;
+        
+    }
+    
+    .company h4{
+        font-family: Mulish;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+    color: #FFFFFF;
+    
+    
+    }
+    
+    .company li{
+        list-style: none;
+        font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 38px;
+    text-align: left;
+    color: #FFFFFF;
+    width: 150%;
+    
+    
+    }
+    
+    .footerrightside{
+        /* width: 33.5%; */
+    }
+    
+    .footerstar{
+        right: 0;
+        position: absolute;
+        margin-top: -27.3rem;
+        margin-right: 2rem;
+        z-index: -1;
+    }
+    
+    .footerstar2{
+        
+        position: absolute;
+        margin-top: -4.8rem;
+       
+    }
+    
+    .footerstar2 img{
+        width: 80%;
+    }
+    
+
+
+
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 480px){
+
+nav{
+    display: none;
+}
+
+.trafalgarlogodesign{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+
+}
+
+.secondpart{
+    margin-top: -7rem;
+    display: block;
+    width: 100%;
+}
+
+.virtualimage img{
+    width: 92%;
+    margin-left: -1rem;
+    margin-right: 6rem;
+}
+
+.virtualword h3{
+    font-family: Mulish;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    width: 115%;
+    margin-bottom: 1.5rem;
+    
+    }
+    
+    .virtualword p{
+    font-family: Mulish;
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 32px;
+    text-align: left;
+    color: #7D7987;
+    width: 108%;
+    
+    
+    
+    }
+    .virtualimage img{
+        width: 100%;
+        margin-top: 1rem;
+       
+    }
+
+    
+.servicespart{
+    width: 90%;
+    margin: auto;
+    margin-top: 5rem;
+    
+
+}
+
+.servicestext h3{
+font-family: Mulish;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+text-align: center;
+color: #000000;
+
+}
+
+hr{
+    width: 10%;
+    padding-top:0.2rem;
+    background-color: #000000;
+    border-radius: 100px;
+    border: none;
+    margin-top: -1rem;
+
+}
+
+.servicestext p{
+font-family: Mulish;
+font-size: 18px;
+font-weight: 290;
+line-height: 30px;
+text-align: center;
+width: 100%;
+margin: auto;
+color: #7D7987;
+margin-bottom: 5rem;
+
+
+}
+
+.servicesboxes1{
+    display: block;
+    /* gap: 1rem; */
+    margin: auto;
+    margin-bottom: 2rem;
+    /* width: 100%; */
+}
+
+.servicesbox2{
+    display: block;
+    /* gap: 1rem; */
+    margin: auto;
+    margin-bottom: 2rem;
+    /* width: 100%; */
+}
+
+
+.doc h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    
+    
+    }
+    
+    .doc p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        text-align:left; 
+        line-height: 28px;
+        color: #7D7987;
+        
+        
+    
+        
+    }
+    
+    .Pharmacy h4{
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #000000;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    }
+    
+    .Pharmacy p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+        
+    }
+    
+    .report h4{
+        font-family: Mulish;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: left;
+        color: #000000;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .report p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+       
+    }
+    
+    .filled h4{
+        font-family: Mulish;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: left;
+        color: #000000;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .filled p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+    }
+    
+    .firstaid h4{
+        font-family: Mulish;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: left;
+        color: #000000;
+        /* margin-top: 2.2rem;
+        margin-bottom: 1rem; */
+    }
+    
+    .firstaid p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+        
+        
+    }
+    
+    .reporter h4{
+        font-family: Mulish;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: left;
+        color: #000000;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .reporter p{
+        font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+        
+    } 
+    .doc{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        color: #ffff;
+
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    .Pharmacy{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        color: #ffff;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    .reporter{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        color: #ffff;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    .report{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        color: #ffff;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    .firstaid{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        color: #ffff;
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    .filled{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px 5px #E5E9F666;
+        padding: 0.5rem 1rem;
+        width: 100%;
+        margin-bottom: 2rem;
+        
+    
+    }
+
+    .star{
+        display: none;
+    }
+
+    .leading{
+        width: 90%;
+        margin: auto;
+        margin-top: 12rem;
+        gap: rem;
+    }
+    
+    .leadingimage{
+        width:100%
+    }
+    
+    .leadingimage img{
+        width: 100%;
+        
+    }
+    
+    
+    
+    
+    .leadingflex{
+        display: block;
+        /* gap: 12rem; */
+        /* width: 100%;
+        margin: auto; */
+    }
+    
+    .providers h3{
+        font-family: Mulish;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: left;
+        color: #000000;
+        width: 80%;
+        
+        
+        }
+        
+        .providers hr{
+            width: 56px;
+            padding-top:0.2rem;
+            background-color: #000000;
+            margin-top: -1rem;
+            margin-right: 32rem;
+        
+        }
+        
+        .providers p{
+        font-family: Mulish;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 30px;
+        text-align: left;
+        color: #7D7987;
+        width: 95%;
+        
+        
+        }
+        .providerbtn button{
+        color:#458FF6;
+        font-family: Mulish;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: normal;
+        text-align: left;
+        border-radius: 50px;
+        padding: 0.5rem 2rem;
+        border-color: #458FF6;
+        background: none;
+        cursor: pointer;
+        margin-top: 0.5rem;
+        }
+
+        .starone{
+            display: none;
+        }
+
+        .leading2{
+            width: 80%;
+            margin: auto;
+            margin-top: 12rem;
+            /* gap: 1rem; */
+        }
+        
+        .providers{
+        width: 100%;
+        }
+        
+        .providers img{
+            width: 100%;
+        }
+        
+        
+        .apps{
+            margin: auto;
+            display: block;
+            margin-top: 8rem;
+            gap: -5rem;
+            
+            
+        }
+        
+        .appdownload h3{
+        font-family: Mulish;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: left;
+        color: #000000;
+        width: 140%;
+        
+        
+        }
+        .appdownload{
+            width: 50%;
+        
+        }
+        .appdownload hr{
+            width: 56px;
+            padding-top:0.2rem;
+            background-color: #000000;
+            margin-top: -1rem;
+            margin-right: 50rem;
+        }
+        
+        .appdownload p{
+        font-family: Mulish;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 30px;
+        text-align: left;
+        color: #7D7987;
+        width: 200%;
+        
+        }
+
+        .providers{
+            margin-bottom: 3rem;
+        }
+
+        .imagesection{
+            background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+            width:90% ;
+            margin: auto;
+            border-radius: 20px;
+        
+        }
+        
+        .imagetext1{
+           padding-top: 2rem;
+        }
+        
+        .imagetext1 h3{
+        font-family: Mulish;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 48px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-top: 2rem;
+        width: 100%;
+        
+        }
+        
+        .imagetext1 hr{
+            width: 5%;
+            padding-top:0.2rem;
+            background-color: white;
+            border-radius: 100px;
+            border: none;
+            margin-top: -1rem;
+        
+        }
+        
+        .flex1{
+            display: block;
+            justify-content: center;
+            gap: 9rem;
+            margin-top: 6.6rem;
+            margin-bottom: 3rem;
+        
+            
+            
+        }
+        
+        .imageflex{
+            display: flex;
+            width: 90%;
+            margin: auto;
+            
+        }
+        
+        .flexword h3{
+            font-family: Mulish;
+            font-size: 22px;
+            font-weight: 700;
+            line-height: 48px;
+            text-align: center;
+            color: #FFFFFFE5;
+            margin-top: 1rem;
+            margin-bottom: -2rem;
+            margin-right: -23rem;
+        
+        
+        
+        }
+        
+        .flexword p{
+            font-family: Mulish;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 48px;
+            text-align: center;
+            align-items: center;
+            margin-right: -23rem;
+            
+        color: #FFFFFFD9;
+        
+        
+        }
+        
+        
+        
+        .wordingside p{
+        font-family: Mulish;
+        font-size: 19px;
+        font-weight: 400;
+        line-height: 30px;
+        text-align: left;
+        color: #FFFFFFE5;
+        width: 75%;
+        text-align: center;
+        margin-left: 3rem;
+        
+        
+        
+        }
+        
+        
+        .mansection{
+            align-items: center;
+            text-align: center;
+            margin-left: -1rem;
+        }
+        
+        .flexword{
+            width: 70%;
+            margin-left: -8rem;
+            margin-top: 1rem;
+            
+        }
+        
+        
+        .blueo{
+        display: none;
+        
+            
+        }
+        
+        .bluep {
+          display: none;
+        }
+        
+        .arrowclass{
+            margin-top: 2rem;
+          text-align: center;
+        }
+
+        .arrowclass{
+            margin-top: 2rem;
+          text-align: center;
+        }
+        
+        .scientist{
+            width: 90%;
+            margin: auto;
+            margin-top: 10rem;
+        }
+        
+        .latest h3{
+        font-family: Mulish;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 56px;
+        text-align: center;
+        color: #000000;
+        width: 100%;
+        
+        
+        
+        }
+        
+        .latest hr{
+            margin-bottom: 4rem;
+        }
+        
+        .lablevel{
+            display:block;
+            width: 90%;
+            margin: auto;
+            gap: 2rem;
+        }
+        
+        
+        
+        .labtest h4{
+            font-family: Mulish;
+        font-size: 21px;
+        font-weight: 700;
+        line-height: 32px;
+        text-align: left;
+        color: #000000;
+        width: 74%;
+        margin-left: 1.5rem;
+        
+        
+        
+        }
+        
+        .labtest p{
+            font-family: Mulish;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 28px;
+        text-align: left;
+        color: #7D7987;
+        width: 78%;
+        margin-left: 1.5rem;
+        
+        
+        }
+        
+        
+        .labtest h5{
+            font-family: Mulish;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 28px;
+        text-align: left;
+        color: #4089ED;
+        margin-left: 1.5rem;
+        
+        
+        
+        
+        }
+        
+        .labtest{
+            width: 350px;
+            height: 512px;
+            top: 4596px;
+            left: 1010px;
+            gap: 0px;
+            border-radius: 20px 20px 20px 20px;
+            opacity: 0px;
+            box-shadow: 0px 10px 10px 0px #E5E9F666;
+            margin-bottom: 2rem;
+            
+        
+        }
+        
+        .arrows{
+           display: none;
+        }
+
+
+        footer{
+            width: 85%;
+            margin: auto;
+            display: block;
+            gap: 12rem;
+            padding-top: 3rem;
+            padding-bottom: 3rem;
+            margin-top: 8rem;
+          
+        }
+
+        .flexside{
+            display: block;
+        }
+
+
+        .footerstar{
+            display: none;
+        }
+
+        .footerstar2{
+            display: none;
+        }
+
+        .laststar{
+            display: none;
+        }
+
+        
+        
+
+}

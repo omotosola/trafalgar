@@ -1,0 +1,186 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    /* background-color: blueviolet; */
+
+}
+
+.signup{
+   /* width: 100%; */
+   background-color: blueviolet;
+   
+   
+   
+}
+
+.signup2{
+    display: flex;
+    width: 90%;
+    margin-left: 8rem;
+    padding-top: 8rem;
+ padding-bottom: 8rem;
+    /* background-color: blueviolet; */
+    
+    
+    
+}
+
+.signupleft{
+    background-color: #5B9BF3;
+    width: 45%;
+   
+}
+
+.signupleft h3{
+font-family: roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 65px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 1.5rem;
+
+
+}
+
+.signimage img{
+    width:100%;
+}
+
+.signupleft p{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.13px;
+text-align: left;
+margin-top: -3rem;
+color: #FFFFFF;
+margin-left: 1.5rem;
+
+
+}
+.signupright{
+    background-color: #ffff;
+    width: 45%;
+
+    
+}
+
+.signupright h3{
+    font-family:Roboto;
+font-size: 64px;
+font-weight: 700;
+line-height: 85.13px;
+text-align: center;
+margin-bottom: -1rem;
+
+
+}
+
+.signupright p{
+ font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.13px;
+text-align: center;
+
+
+
+}
+
+.signupright span{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+line-height: 28.13px;
+text-align: left;
+color: green;
+margin-bottom: -2rem;
+cursor: pointer;
+
+}
+.socials{
+    display: flex;
+    text-align: center;
+    
+}
+
+.google img{
+    width: 50%;
+    cursor: pointer;
+}
+
+.facebook img{
+    width: 85%;
+    margin-left: -8rem;
+    cursor: pointer;
+}
+
+.linesec img{
+    width: 70%;
+    margin-right: rem;
+    
+}
+
+.linesec{
+    display: flex;
+margin-left: 7.5rem;
+}
+
+.signupboxes p{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.13px;
+text-align: left;
+color: black;
+margin-bottom: -0.2rem;
+
+}
+
+input{
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+padding-right: 5.5rem;
+padding-left: 1rem;
+border-radius: 10px 10px 10px 10px;
+border-color: black;
+box-shadow: 5px 5px 5px 5px #E5E9F666;;
+}
+
+::placeholder{
+font-family:roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 28.13px;
+text-align: left;
+color: #5B9BF3;
+
+}
+
+.createbutton button{
+    margin-top: 3rem;
+    color: #ffff;
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    border-radius: 10px;
+    background: #458FF6;
+    padding: 0.5rem 0.5rem;
+    border: none;
+    cursor: pointer;
+    padding-right: 7rem;
+    padding-left: 7rem;
+    
+}
+.boxes1{
+    margin-left: 8rem;
+}
+
+.createbutton{
+    margin-bottom: 2rem;
+    text-align: center;
+}
