@@ -1879,7 +1879,7 @@ margin-bottom: 5rem;
         }
         
         .imageflex{
-            display: flex;
+            display: block;
             width: 90%;
             margin: auto;
             
@@ -1915,7 +1915,7 @@ margin-bottom: 5rem;
         }
         
         .wordingside{
-            width: 100%;
+           width: 100%;
         }
         
         .wordingside p{
@@ -1923,7 +1923,7 @@ margin-bottom: 5rem;
         font-size: 19px;
         font-weight: 400;
         line-height: 30px;
-        text-align: left;
+        text-align: center;
         color: #FFFFFFE5;
         width: 75%;
         text-align: center;
